@@ -1,1 +1,1 @@
-# origamid-javascript-course
+# Origamid JavaScript Course
